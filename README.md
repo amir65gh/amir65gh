@@ -30,7 +30,7 @@ Hi, I'm **Amir Ghoratolaian**, a passionate and results-oriented **Senior Dynami
 ---
 
 ## 🌐 Connect with Me
-📍 **Location**: Oman  
+📍 **Location**: Berlin - Germany  
 💼 **LinkedIn**: [linkedin.com/in/ghoratolaian](https://www.linkedin.com/in/ghoratolaian/)  
 📫 **Email**: [amir65gh@gmail.com](mailto:amir65gh@gmail.com)  
 🛠️ **GitHub Projects**: Explore my repositories to see my work!
