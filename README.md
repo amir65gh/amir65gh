@@ -42,4 +42,4 @@ When I'm not coding, you can find me exploring new technologies, mentoring buddi
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghoratolaian&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amir65gh&show_icons=true&theme=radical)
